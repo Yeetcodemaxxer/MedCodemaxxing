@@ -1,0 +1,6 @@
+{
+  "name": "Fluid Therapy Learning Platform",
+  "description": "An interactive digital companion and clinical calculation suite based on Dr. Sanjay Pandya's Practical Guidelines on Fluid Therapy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
